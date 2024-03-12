@@ -1,0 +1,12 @@
+body{
+    background-color: #061521;
+    color: white;
+}
+
+a:hover {
+	color: white;
+}
+
+.verticalnav li {
+    background-color: #85beef;
+}
